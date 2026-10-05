@@ -1,0 +1,192 @@
+BANKWISE DEMO BANK
+UPI SERVICES GUIDE
+
+1. INTRODUCTION
+
+Unified Payments Interface (UPI) is a digital payment system that enables eligible users to send and receive money through supported banking and payment applications.
+
+UPI can be used for many everyday payments, including payments to individuals and participating merchants.
+
+This is a fictional/demo document created for the BankWise AI RAG project. It is not an official banking policy.
+
+2. WHAT IS UPI?
+
+UPI connects eligible bank accounts with supported payment applications and allows users to make digital transactions.
+
+Common UPI services include:
+
+• Sending money
+• Receiving money
+• Merchant payments
+• Checking transaction status
+• Managing supported bank accounts
+• Generating or using a UPI ID
+
+3. UPI ID
+
+A UPI ID is a payment address associated with a user's eligible bank account through a supported UPI application.
+
+Users can generally share their UPI ID when someone needs to send them money.
+
+A UPI ID should not be confused with a UPI PIN.
+
+4. UPI PIN
+
+A UPI PIN is a confidential authentication credential used to authorize certain UPI transactions.
+
+The UPI PIN should always be kept private.
+
+Never share your UPI PIN with:
+• Friends
+• Strangers
+• Callers
+• Bank representatives
+• Customer support impersonators
+• Unknown websites or applications
+
+5. SENDING MONEY THROUGH UPI
+
+Before confirming a payment, users should carefully check:
+
+• Recipient name
+• Payment amount
+• UPI ID or payment details
+• Transaction information
+
+Users should only confirm transactions that they intentionally initiated.
+
+6. RECEIVING MONEY
+
+A user can receive money through a supported UPI application.
+
+Receiving money generally does not require entering a UPI PIN.
+
+If someone asks a user to enter a UPI PIN to receive money, the user should stop and verify the request.
+
+7. UPI QR CODE PAYMENTS
+
+UPI QR codes can be used to make payments to participating merchants or users.
+
+Before completing a QR payment:
+
+• Verify the recipient name.
+• Check the amount.
+• Confirm that the payment is intended.
+• Do not scan unknown QR codes without understanding the purpose.
+
+8. FAILED UPI TRANSACTION
+
+A UPI transaction may fail because of:
+
+• Network problems
+• Bank server issues
+• Incorrect payment details
+• Account restrictions
+• Temporary technical problems
+• Other processing issues
+
+Users should check the transaction status in the official payment application.
+
+9. MONEY DEBITED BUT TRANSACTION FAILED
+
+If money is debited but the transaction does not appear successful, the user should:
+
+• Check the transaction status.
+• Keep the transaction reference number.
+• Wait for the applicable status update or reversal process.
+• Contact the bank or payment application's official support if the issue remains unresolved.
+
+Users should not share confidential credentials while reporting a problem.
+
+10. UPI TRANSACTION LIMITS
+
+UPI services may have transaction or daily limits.
+
+Limits can depend on:
+• Bank
+• Payment application
+• Account type
+• Transaction type
+• Applicable regulations
+
+Users should check current limits through official banking or payment application channels.
+
+11. UPI AUTOPAY
+
+Some supported applications may provide recurring payment or UPI AutoPay functionality.
+
+Users should carefully review:
+• Merchant name
+• Amount
+• Frequency
+• Validity
+• Mandate details
+
+before approving a recurring payment instruction.
+
+12. UPI SECURITY
+
+Users should follow these safety practices:
+
+• Never share the UPI PIN.
+• Never share OTPs.
+• Verify the recipient before sending money.
+• Do not approve unknown payment requests.
+• Avoid suspicious links.
+• Use official banking applications.
+• Keep mobile applications updated.
+• Report suspicious transactions immediately.
+
+13. PHISHING AND UPI FRAUD
+
+Fraudsters may use fake calls, messages, websites, QR codes, or payment requests to trick users.
+
+Users should be cautious when someone:
+• Claims to be a bank employee.
+• Requests an OTP or UPI PIN.
+• Asks the user to install unknown software.
+• Sends an unexpected payment request.
+• Pressures the user to make an immediate payment.
+
+When in doubt, contact the bank through an official channel.
+
+14. LOST OR STOLEN MOBILE DEVICE
+
+If a mobile device containing banking or UPI applications is lost or stolen, the user should secure the device and contact the relevant bank or payment service through an official channel.
+
+Users should also protect their device with a secure screen lock.
+
+15. UNAUTHORIZED UPI TRANSACTION
+
+If a user notices an unauthorized transaction, they should contact the bank or payment provider immediately through an official support channel.
+
+The user should keep the transaction reference and other relevant information available for reporting.
+
+16. UPI REFUND
+
+For a merchant-related payment issue, the user should first check the transaction status and contact the merchant when appropriate.
+
+If the issue is not resolved, the user can use the official payment application's dispute or support process.
+
+Refund processing time can vary depending on the transaction and service provider.
+
+17. BANKWISE AI LIMITATION
+
+BankWise AI is an informational chatbot created for a demonstration RAG project.
+
+It cannot:
+
+• Access a user's UPI account
+• View real UPI transactions
+• Send money
+• Receive money
+• Approve payment requests
+• Generate or retrieve a UPI PIN
+• Process refunds
+• Resolve real banking disputes
+
+For real UPI problems, users should contact their bank or payment service through an official channel.
+
+DISCLAIMER
+
+UPI features, transaction limits, processing times, security procedures, and dispute processes may vary between banks and payment applications and may change over time. Always verify current information through official banking or payment-service channels.

@@ -1,0 +1,451 @@
+# BankWise Demo Bank – Banking Security and Fraud Awareness Guide
+
+## 1. Introduction
+
+Banking security is important for protecting accounts, cards, digital payments, and personal information from unauthorized access and fraud.
+
+Customers should follow safe banking practices and remain careful when receiving calls, messages, emails, or links related to banking services.
+
+**Important:** This document is created for the fictional BankWise Demo Bank project. It does not represent the security policies of any real bank.
+
+---
+
+## 2. Common Banking Security Risks
+
+Customers may encounter different types of banking fraud and security threats, including:
+
+* Phishing
+* Fake banking websites
+* Fraudulent phone calls
+* Fake customer-support numbers
+* Malicious links
+* Fake mobile applications
+* Social engineering
+* Unauthorized transactions
+* Identity theft
+* Fake KYC requests
+* Payment scams
+
+Customers should verify requests before taking action.
+
+---
+
+## 3. Phishing
+
+Phishing is an attempt to trick people into providing confidential information through fake messages, websites, emails, or other communication methods.
+
+Phishing messages may appear to come from:
+
+* Banks
+* Payment services
+* Government organizations
+* Delivery companies
+* Customer-support teams
+* Financial institutions
+
+Do not click suspicious links or provide confidential banking information.
+
+---
+
+## 4. Fake Banking Websites
+
+Fraudsters may create websites that look similar to legitimate banking websites.
+
+Before logging into Internet Banking:
+
+1. Check the website address carefully.
+2. Use the bank's official website or application.
+3. Avoid links received from unknown sources.
+4. Do not enter credentials into suspicious websites.
+
+When in doubt, open the official bank website directly instead of using a message link.
+
+---
+
+## 5. Fake Customer Support
+
+Fraudsters may pretend to be bank employees or customer-support representatives.
+
+They may ask for:
+
+* OTP
+* ATM PIN
+* UPI PIN
+* Password
+* CVV
+* Card details
+* Verification codes
+
+**Legitimate bank representatives should not require customers to disclose confidential authentication credentials.**
+
+If someone requests such information, stop the conversation and contact the bank through an official channel.
+
+---
+
+## 6. OTP Security
+
+An OTP is a one-time password used for certain authentication or transaction processes.
+
+Customers should:
+
+* Keep OTPs confidential.
+* Never share OTPs with another person.
+* Avoid entering OTPs on suspicious websites.
+* Verify the transaction before entering an OTP.
+
+**BankWise AI does not require or accept OTPs.**
+
+---
+
+## 7. ATM PIN Security
+
+ATM PINs should always remain confidential.
+
+Customers should:
+
+* Never share their ATM PIN.
+* Cover the keypad while entering the PIN.
+* Avoid writing the PIN on the card.
+* Avoid using easily guessed PINs.
+* Be alert when using ATMs.
+
+If an ATM appears damaged or suspicious, consider using another ATM and report the issue through official channels.
+
+---
+
+## 8. UPI PIN Security
+
+The UPI PIN is confidential and should never be shared.
+
+Customers should remember:
+
+* A UPI PIN is generally used to authorize payments.
+* Do not enter a UPI PIN simply to receive money.
+* Never share a UPI PIN with another person.
+* Do not enter the PIN on suspicious screens or links.
+
+**BankWise AI will never ask for a UPI PIN.**
+
+---
+
+## 9. Card Security
+
+Debit and credit cards should be protected carefully.
+
+Customers should:
+
+* Keep cards in a secure place.
+* Never share card security information.
+* Check transaction notifications.
+* Report unauthorized transactions quickly.
+* Use trusted websites for online purchases.
+* Avoid saving card information on unfamiliar websites.
+
+Never share the complete card number, CVV, PIN, or authentication codes with a chatbot.
+
+---
+
+## 10. Online Shopping Safety
+
+When making online purchases:
+
+* Use trusted websites.
+* Check the website address.
+* Avoid suspicious offers.
+* Do not click unknown payment links.
+* Verify the payment amount.
+* Check transaction notifications.
+* Keep payment information private.
+
+Very large discounts or urgent payment requests should be treated carefully.
+
+---
+
+## 11. QR Code Payment Safety
+
+QR codes can be useful for digital payments, but customers should remain careful.
+
+Before making a payment:
+
+1. Verify the recipient.
+2. Verify the amount.
+3. Confirm that the payment is intended.
+4. Authorize the payment only when the details are correct.
+
+Scanning a QR code is not a guarantee that the payment recipient is trustworthy.
+
+---
+
+## 12. Fake KYC Requests
+
+Fraudsters may send messages claiming that a customer's account will be blocked unless KYC information is immediately updated through a link.
+
+Customers should:
+
+* Avoid suspicious links.
+* Verify KYC requests through official bank channels.
+* Never share passwords or OTPs.
+* Avoid installing unknown applications for KYC verification.
+
+Use only verified banking channels for KYC activities.
+
+---
+
+## 13. Social Engineering
+
+Social engineering involves manipulating people into revealing information or performing actions.
+
+A fraudster may create urgency by saying:
+
+* "Your account will be blocked."
+* "Your card will be cancelled."
+* "Your KYC has expired."
+* "You have received a reward."
+* "Your transaction requires immediate verification."
+
+Customers should remain calm and independently verify the claim.
+
+---
+
+## 14. Suspicious Links
+
+Do not open links from unknown or suspicious messages.
+
+Warning signs include:
+
+* Unexpected messages
+* Misspelled website addresses
+* Urgent requests
+* Unusual offers
+* Requests for confidential information
+* Unknown attachments
+* Suspicious shortened links
+
+When banking is involved, use the official bank website or application instead.
+
+---
+
+## 15. Mobile Application Safety
+
+Customers should download banking applications only from trusted official application stores and verify the publisher.
+
+Avoid applications that:
+
+* Ask for unnecessary banking credentials.
+* Come from unknown publishers.
+* Are distributed through suspicious links.
+* Request unusual permissions.
+* Claim to provide unauthorized banking services.
+
+Keep the banking application updated.
+
+---
+
+## 16. Password Security
+
+Customers should use strong and unique passwords for online banking.
+
+Good password practices include:
+
+* Use a unique password.
+* Avoid easily guessed information.
+* Do not share passwords.
+* Do not reuse banking passwords on other websites.
+* Change passwords when compromise is suspected.
+* Avoid saving passwords on public computers.
+
+---
+
+## 17. Device Security
+
+Customers should protect their phones and computers by:
+
+* Using a screen lock.
+* Installing security updates.
+* Keeping applications updated.
+* Installing applications from trusted sources.
+* Avoiding unknown downloads.
+* Removing suspicious applications.
+* Using trusted networks for banking activities.
+
+---
+
+## 18. Public Wi-Fi Safety
+
+Public Wi-Fi networks may not provide the same level of security as trusted networks.
+
+Customers should avoid performing sensitive banking activities on unknown or unsecured networks whenever possible.
+
+If banking access is necessary, use a trusted connection and ensure that the official banking website or application is being used.
+
+---
+
+## 19. Transaction Monitoring
+
+Customers should regularly review banking transactions.
+
+Check for:
+
+* Unknown withdrawals
+* Unexpected card payments
+* Unknown UPI transactions
+* Unexpected transfers
+* Unrecognized fees
+* Suspicious account activity
+
+If an unfamiliar transaction appears, contact the bank immediately through an official channel.
+
+---
+
+## 20. Unauthorized Transaction
+
+If a customer notices an unauthorized transaction, they should:
+
+1. Contact the bank immediately.
+2. Report the transaction through official channels.
+3. Follow the bank's security instructions.
+4. Secure affected banking access.
+5. Keep transaction references and relevant information available.
+
+The exact reporting and resolution procedure depends on the bank and transaction type.
+
+---
+
+## 21. Lost or Stolen Card
+
+If a debit or credit card is lost or stolen, customers should contact their bank through official channels as soon as possible.
+
+The bank may provide options to:
+
+* Block the card.
+* Replace the card.
+* Review recent transactions.
+* Report unauthorized activity.
+
+Do not wait unnecessarily if suspicious transactions are already visible.
+
+---
+
+## 22. Lost or Stolen Mobile Phone
+
+If a mobile phone containing banking applications is lost or stolen, customers should:
+
+* Contact their mobile service provider if necessary.
+* Contact the bank through official channels.
+* Secure banking access.
+* Monitor account activity.
+* Follow the bank's instructions.
+
+Do not provide account passwords or authentication codes to people claiming to help recover the device.
+
+---
+
+## 23. Fraud Awareness Checklist
+
+Before responding to a banking request, ask:
+
+* Do I know who sent this message?
+* Is the website official?
+* Is the request unexpected?
+* Is someone creating unnecessary urgency?
+* Are they asking for confidential information?
+* Can I verify the request through the official bank?
+
+If anything appears suspicious, stop and verify independently.
+
+---
+
+## 24. What Banks Generally Do Not Need From Customers
+
+Customers should be extremely careful when anyone asks them to disclose:
+
+* OTP
+* ATM PIN
+* UPI PIN
+* Internet Banking password
+* CVV
+* Authentication codes
+* Full card credentials
+
+Never provide these details to unknown people, suspicious websites, or chatbots.
+
+---
+
+## 25. BankWise AI Security Rules
+
+BankWise AI is designed as an informational banking assistant.
+
+BankWise AI does not request:
+
+* OTPs
+* ATM PINs
+* UPI PINs
+* Internet Banking passwords
+* CVVs
+* Full card numbers
+* Full account numbers
+* Authentication codes
+
+Users should not enter confidential banking information into the chatbot.
+
+---
+
+## 26. BankWise AI Limitation
+
+BankWise AI can provide general information about banking security, fraud awareness, and safe banking practices using its document knowledge base.
+
+BankWise AI cannot:
+
+* Access bank accounts.
+* Investigate real customer accounts.
+* Track real transactions.
+* Block cards.
+* Freeze accounts.
+* Recover money.
+* Contact banks on behalf of customers.
+* Verify real customer identities.
+* Process fraud complaints.
+* Guarantee the outcome of a fraud investigation.
+
+For real security incidents, customers must contact their bank and relevant official authorities through verified channels.
+
+---
+
+## 27. Important Security Notice
+
+**Never share confidential banking credentials with BankWise AI.**
+
+Do not enter:
+
+**OTP | ATM PIN | UPI PIN | Password | CVV | Full Card Number | Full Account Number | Authentication Codes**
+
+BankWise AI only needs a general question to provide informational assistance.
+
+---
+
+## 28. Final Safety Reminder
+
+Banking security depends on careful handling of personal and financial information.
+
+Customers should:
+
+* Use official banking channels.
+* Keep passwords and PINs private.
+* Never share OTPs.
+* Verify payment details.
+* Avoid suspicious links.
+* Monitor transactions.
+* Report suspicious activity quickly.
+* Keep devices and applications updated.
+
+When something appears suspicious, stop the activity and contact the bank through its official customer-support channels.
+
+---
+
+## 29. Disclaimer
+
+This document is intended only for the BankWise AI demonstration project. The information is general and educational.
+
+Actual banking security procedures, fraud reporting processes, authentication methods, transaction limits, and customer-support procedures may vary between banks.
+
+For real banking or fraud-related issues, always contact the relevant bank through its official website, official mobile application, or verified customer-support channels.

@@ -1,0 +1,140 @@
+BANKWISE DEMO BANK
+ATM SERVICES GUIDE
+
+1. INTRODUCTION
+
+An Automated Teller Machine (ATM) allows customers to perform basic banking services without visiting a bank branch. Depending on the bank and ATM, customers may be able to withdraw cash, check balances, print mini statements, and access card-related services.
+
+This is a fictional/demo document created for the BankWise AI RAG project. It is not an official banking policy.
+
+2. CASH WITHDRAWAL
+
+Customers can use an eligible debit card at a supported ATM to withdraw cash.
+
+General steps:
+• Insert or tap the card if supported.
+• Select the required language.
+• Enter the required authentication information privately.
+• Select Cash Withdrawal.
+• Enter the required amount.
+• Collect the cash and card.
+• Take the receipt if required.
+
+Customers should always verify that the transaction has been completed successfully.
+
+3. BALANCE ENQUIRY
+
+An ATM may provide a balance enquiry option. Customers can select this service and follow the instructions displayed on the ATM screen.
+
+The available balance shown may depend on the bank's system and transaction processing status.
+
+4. MINI STATEMENT
+
+Some ATMs provide a mini statement showing recent account transactions.
+
+The number of transactions displayed and the availability of this feature may vary between banks and ATM machines.
+
+5. ATM WITHDRAWAL LIMIT
+
+Banks may set daily or transaction-level limits for ATM cash withdrawals.
+
+The applicable limit can depend on:
+• Account type
+• Debit card type
+• Customer settings
+• Bank policy
+• ATM network
+
+Customers should check the current limit through their bank's official channels.
+
+6. FAILED CASH WITHDRAWAL
+
+Sometimes an ATM transaction may fail.
+
+If the account is debited but cash is not received, the customer should:
+• Keep the transaction details.
+• Check the transaction status through the official banking application or website.
+• Contact the bank through an official support channel if the issue remains unresolved.
+
+Customers should never share confidential authentication information while reporting the problem.
+
+7. ATM CARD RETENTION
+
+An ATM may occasionally retain a card because of technical problems or other reasons.
+
+If this happens, the customer should:
+• Contact the bank through its official support channel.
+• Follow the bank's card-retrieval or replacement procedure.
+• Never provide the card PIN to another person.
+
+8. LOST OR STOLEN DEBIT CARD
+
+If a debit card is lost or stolen, the customer should report it immediately through an official banking channel.
+
+Possible official channels include:
+• Bank mobile application
+• Internet banking
+• Official bank helpline
+• Bank branch
+
+The customer should follow the bank's procedure for blocking or replacing the card.
+
+9. ATM SAFETY
+
+Customers should follow basic ATM safety practices:
+• Keep the PIN confidential.
+• Cover the keypad while entering authentication information.
+• Avoid accepting assistance from unknown people.
+• Check the ATM for anything unusual before using it.
+• Collect the card and cash before leaving.
+• Keep ATM receipts secure when they contain sensitive information.
+
+10. SUSPICIOUS ATM ACTIVITY
+
+If a customer notices suspicious activity around an ATM or discovers an unfamiliar transaction, they should leave the area if necessary and contact the bank through an official support channel.
+
+Customers should not confront suspicious individuals.
+
+11. ATM TRANSACTION RECEIPTS
+
+ATM receipts may contain transaction information. Customers should keep them secure and dispose of unwanted receipts carefully.
+
+Customers should avoid sharing transaction receipts publicly if they contain sensitive information.
+
+12. ATM SERVICE AVAILABILITY
+
+ATM services may sometimes be unavailable because of maintenance, network problems, cash availability, or technical issues.
+
+Customers can try another authorized ATM or contact the bank through an official channel.
+
+13. IMPORTANT SECURITY INFORMATION
+
+Never share:
+• ATM PIN
+• OTP
+• UPI PIN
+• Internet banking password
+• CVV
+• Full card credentials
+• Other authentication information
+
+Bank staff should not ask customers to disclose confidential authentication credentials.
+
+14. BANKWISE AI LIMITATION
+
+BankWise AI is an informational chatbot created for a demonstration RAG project.
+
+It cannot:
+• Access real bank accounts
+• Check real account balances
+• Withdraw money
+• Perform ATM transactions
+• Block a real card
+• Transfer money
+• Access customer credentials
+
+For real banking problems, customers should contact their actual bank through an official channel.
+
+DISCLAIMER
+
+ATM features, withdrawal limits, fees, availability, and procedures may vary between banks and may change over time. Always verify current information through the relevant bank's official channels.
